@@ -1,36 +1,10 @@
 {
   "assets": {
-    "images/about/1.jpg": "images/about/1-7e4f5ec6d94aa0c08c155426257eaa4a.jpg",
-    "images/about/2.jpg": "images/about/2-a90b0f86f471b7840c8c3b678620cbf3.jpg",
-    "images/about/3.jpg": "images/about/3-3fcdede3b85681f38cd286bdb2af1b89.jpg",
-    "images/about/4.jpg": "images/about/4-d39bbbd72226ed7c69d4a766ff10c212.jpg",
-    "images/header-bg.jpg": "images/header-bg-e2d2a51c2932205b52f4a5ae1943eb97.jpg",
     "images/header-bg2.jpg": "images/header-bg2-11820bfe695497d2fdc2b13a086e5cec.jpg",
-    "images/logos/aetuts.jpg": "images/logos/aetuts-817cd35ed928f8fc4f4870a094fad186.jpg",
-    "images/logos/creative-market.jpg": "images/logos/creative-market-cf93e986fb2fec5f4a4df4079806cb07.jpg",
-    "images/logos/designmodo.jpg": "images/logos/designmodo-4746e67ebd0fae869fc5106f30ce41b8.jpg",
-    "images/logos/envato.jpg": "images/logos/envato-c42066b3ecd8af382001744966be2eb3.jpg",
-    "images/logos/microlancer.jpg": "images/logos/microlancer-dad2fb3cbf3349524811575325de7cb6.jpg",
-    "images/logos/themeforest.jpg": "images/logos/themeforest-b6d135509d34a27acc21103d52f2991d.jpg",
-    "images/logos/wordpress.jpg": "images/logos/wordpress-2b9e04533620554ee3f567d8d039d7b7.jpg",
     "images/map-image.png": "images/map-image-f40ed5b1e791e9d2479ba8b5e67f2df8.png",
-    "images/portfolio/dreams-preview.png": "images/portfolio/dreams-preview-4d8747bb359477f1a009af319b37e529.png",
-    "images/portfolio/dreams.png": "images/portfolio/dreams-f4e17f15859b496ec837c838604a46bc.png",
-    "images/portfolio/escape-preview.png": "images/portfolio/escape-preview-de868d47e7424f4d1fe87d7fb25edd2b.png",
-    "images/portfolio/escape.png": "images/portfolio/escape-62c332793a65ebc22081a338f4ae14d7.png",
-    "images/portfolio/golden-preview.png": "images/portfolio/golden-preview-126980bed73adb0663383ed6554241e3.png",
-    "images/portfolio/golden.png": "images/portfolio/golden-e9d735ecbe312a04d88f9a8a4f235492.png",
-    "images/portfolio/roundicons-free.png": "images/portfolio/roundicons-free-af59513330ca7296c210bf5b75b839a6.png",
-    "images/portfolio/roundicons.png": "images/portfolio/roundicons-dc5778cf522aad4a32a137ac977adba7.png",
-    "images/portfolio/startup-framework-preview.png": "images/portfolio/startup-framework-preview-2da601c2bdf91456a0f691141d56febf.png",
-    "images/portfolio/startup-framework.png": "images/portfolio/startup-framework-b49747d40c040d2c8920842f97c5757c.png",
-    "images/portfolio/treehouse-preview.png": "images/portfolio/treehouse-preview-f52788bcf8b82606b31ed5808bfae698.png",
-    "images/portfolio/treehouse.png": "images/portfolio/treehouse-868e67872c9088d7e4b8295ad5e1a320.png",
-    "images/team/1.jpg": "images/team/1-acea53b0601d7da1955fb34dd6a8afec.jpg",
-    "images/team/2.jpg": "images/team/2-155faceaa218167ae8c689f267ffdfc8.jpg",
-    "images/team/3.jpg": "images/team/3-ae438b4a0efda4ff546e0e3962ae1df1.jpg",
+    "images/team/julie.jpg": "images/team/julie-74a57756ac9af1631f4b37cdd2f5bb2f.jpg",
     "javascripts/application.js": "javascripts/application-4e8322756333b958d3e9c121123cf827.js",
-    "stylesheets/application.css": "stylesheets/application-568f3724a0ab22124dcfcf2c2a32a5a9.css"
+    "stylesheets/application.css": "stylesheets/application-5fe12e05b1ef4e2c1d484c3f16bb5f8d.css"
   },
   "prepend": ""
 }
